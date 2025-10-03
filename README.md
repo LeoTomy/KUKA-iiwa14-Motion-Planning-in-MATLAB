@@ -47,10 +47,10 @@ A plot showing the minimum distance (cm) of the gripper fingers to the object ov
 
 ## 🧭 Demo & Results
 📷 Gripper-Object Distance Plot:  
-![Line Follower Robot](docs/robot.jpg)
+https://github.com/LeoTomy/KUKA-iiwa14-Motion-Planning-in-MATLAB/blob/main/kuka_iiwa14_simulation.m
 
 🎥 Robot Simulation Video:  
-https://studio.youtube.com/video/vAR7RZywHOg/edit
+https://youtu.be/vAR7RZywHOg
 
 
 ---
