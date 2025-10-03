@@ -27,6 +27,11 @@ The simulation visualizes robot motion, plans trajectories, and evaluates collis
 
 ---
 
+## 🛠️ THWS Gripper URDF
+The simulation uses a **THWS Gripper** attached to the KUKA iiwa14 robot.  
+This gripper is imported using the URDF file: https://github.com/LeoTomy/KUKA-iiwa14-Motion-Planning-in-MATLAB/blob/main/THWSGripper.URDF
+
+---
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
