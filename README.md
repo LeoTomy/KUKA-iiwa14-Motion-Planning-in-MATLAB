@@ -1,7 +1,8 @@
 # 🤖 KUKA iiwa14 Robot Simulation with Gripper and Collision Analysis
 
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Top language](https://img.shields.io/github/languages/top/LeoTomy/Line-Follower-Robot)
+![Top language](https://img.shields.io/github/languages/top/LeoTomy/Kuka-Robot-Simulation)
+
 
 ## 📖 Overview
 This project demonstrates a MATLAB-based simulation of the **KUKA LBR iiwa14 robot arm** equipped with a gripper.  
