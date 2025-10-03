@@ -1,5 +1,10 @@
 # 🤖 KUKA iiwa14 Robot Simulation with Gripper and Collision Analysis
 
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Top language](https://img.shields.io/github/languages/top/LeoTomy/KUKA-iiwa14-Motion-Planning-in-MATLAB)
+
+
+## 📖 Overview
 This project demonstrates a MATLAB-based simulation of the **KUKA LBR iiwa14 robot arm** equipped with a gripper.  
 The simulation visualizes robot motion, plans trajectories, and evaluates collision distances between the robot gripper and an object on a worktop.
 
@@ -25,7 +30,7 @@ The simulation visualizes robot motion, plans trajectories, and evaluates collis
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/kuka-iiwa14-simulation.git
+   git clone https://github.com/LeoTomy/KUKA-iiwa14-Motion-Planning-in-MATLAB
    cd kuka-iiwa14-simulation
 2. Open MATLAB and make sure the project files are in your MATLAB path.
 3. Run the main script: kuka_iiwa14_simulation.m
@@ -47,10 +52,10 @@ A plot showing the minimum distance (cm) of the gripper fingers to the object ov
 
 ## 🧭 Demo & Results
 📷 Gripper-Object Distance Plot:  
-![Line Follower Robot](docs/robot.jpg)
+https://github.com/LeoTomy/KUKA-iiwa14-Motion-Planning-in-MATLAB/blob/main/kuka_iiwa14_simulation.m
 
 🎥 Robot Simulation Video:  
-https://studio.youtube.com/video/vAR7RZywHOg/edit
+https://youtu.be/vAR7RZywHOg
 
 
 ---
