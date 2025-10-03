@@ -1,7 +1,7 @@
 # 🤖 KUKA iiwa14 Robot Simulation with Gripper and Collision Analysis
 
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Top language](https://img.shields.io/github/languages/top/LeoTomy/Kuka-Robot-Simulation)
+![Top language](https://img.shields.io/github/languages/top/LeoTomy/KUKA-iiwa14-Motion-Planning-in-MATLAB)
 
 
 ## 📖 Overview
