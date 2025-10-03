@@ -25,7 +25,7 @@ The simulation visualizes robot motion, plans trajectories, and evaluates collis
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/kuka-iiwa14-simulation.git
+   git clone https://github.com/LeoTomy/KUKA-iiwa14-Motion-Planning-in-MATLAB
    cd kuka-iiwa14-simulation
 2. Open MATLAB and make sure the project files are in your MATLAB path.
 3. Run the main script: kuka_iiwa14_simulation.m
